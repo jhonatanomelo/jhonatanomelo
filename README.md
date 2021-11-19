@@ -6,8 +6,8 @@ Prestando consultoria de IT com uso da plataforma de desenvolvimento <a href="ht
 ##
 <h3>🏅 Certificações </h3>
 <div> 
-  <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-associate-traditional-web.png"></a>
-  <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-specialist-mobile.png"></a> 
+  <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn"                     target="_blank"><img aling="center" height="125" width="100" src="os-associate-traditional-web.png"></a>
+  <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn"                     target="_blank"><img aling="center" height="125" width="100" src="os-specialist-mobile.png"></a> 
   <a href="https://www.youracclaim.com/badges/96e507d3-08b5-4237-bab6-ffc57d3dc1c9" target="_blank"><img aling="center" height="125" width="125" src="scrum-foundation.png"></a>
   <a href="https://www.youracclaim.com/badges/a77bc1a6-43df-49bf-bc17-617a5be49f24" target="_blank"><img aling="center" height="125" width="125" src="devops-essentials.png"></a>
 </div>
@@ -15,12 +15,12 @@ Prestando consultoria de IT com uso da plataforma de desenvolvimento <a href="ht
 ##
 <h3>👨‍💻 Habilidades </h3>
 <div style="display: inline_block">
-  <img aling="center" alt="HTML5"     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img aling="center" alt="CSS3"      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img aling="center" alt="JS"        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img aling="center" alt="PHP"       src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img aling="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img aling="center" alt="MySQL"     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img aling="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
+  <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank"><img aling="center" alt="CSS3"      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/About_JavaScript" target="_blank"><img aling="center" alt="JS"        src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+  <a href="https://www.php.net/manual/pt_BR/intro-whatis.php" target="_blank"><img aling="center" alt="PHP"       src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+  <a href="https://getbootstrap.com/docs/5.1/getting-started/introduction/" target="_blank"><img aling="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+  <a href="https://dev.mysql.com/doc/refman/8.0/en/what-is-mysql.html" target="_blank"><img aling="center" alt="MySQL"     src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </div>
 
 ##
