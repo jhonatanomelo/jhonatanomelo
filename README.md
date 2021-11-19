@@ -1,7 +1,7 @@
 ### Olá 👋🏼
 
 <h3>👇🏼 Um pouco sobre mim</h3>
-Prestando consultoria de IT com uso da plataforma <strong>Outsystems</strong> ⭕🚀 a serviço da <i>Nexllence, powered by Glintt</i>. Atualmente a compor o time de desenvolvedores da <i>CLC - Companhia Logística de Combustíveis S.A</i>. em um projeto de transformação digital que faz conversão instantânea de movimentos operacionais em movimentos contábeis. Acadêmico do 1º ciclo de graduação na <i>UAb - Universidade Aberta</i> no curso de licenciatura em <i>Engenharia Informática</i>.
+Prestando consultoria de IT com uso da plataforma <a href="https://www.outsystems.com/pt-br/platform/" target="_blank"><strong>Outsystems</strong></a> ⭕🚀 a serviço da <i>Nexllence, powered by Glintt</i>. Atualmente a compor o time de desenvolvedores da <i>CLC - Companhia Logística de Combustíveis S.A</i>. em um projeto de transformação digital que faz conversão instantânea de movimentos operacionais em movimentos contábeis. Acadêmico do 1º ciclo de graduação na <i>UAb - Universidade Aberta</i> no curso de licenciatura em <i>Engenharia Informática</i>.
 
 ##
 <h3>👨‍💻 Algumas habilidades</h3>
