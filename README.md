@@ -1,10 +1,19 @@
 ### Olá 👋🏼
 
-<h3>👇🏼 Um pouco sobre mim</h3>
+<h3>👇🏼 Sobre mim</h3>
 Prestando consultoria de IT com uso da plataforma de desenvolvimento <a href="https://www.outsystems.com/pt-br/platform/" target="_blank"><strong>Outsystems</strong></a> ⭕🚀 a serviço da <a href="https://www.nexllence.com/pt/sobre" target="_blank"><i>Nexllence, powered by Glintt</i></a>. Atualmente a compor o time de desenvolvedores da <a href="http://www.clc.pt/clc/" target="_blank"><i>CLC - Companhia Logística de Combustíveis S.A.</i></a> em um projeto de transformação digital que faz conversão instantânea de movimentos operacionais em movimentos contábeis. Acadêmico do 1º ciclo de graduação na <a href="https://portal.uab.pt/auab/" target="_blank"><i>UAb - Universidade Aberta</i></a> no curso de licenciatura em <a href="https://www2.uab.pt/guiainformativo/detailcursos.php?curso=100" target="_blank"><i>Engenharia Informática</i></a>.
 
 ##
-<h3>👨‍💻 Algumas habilidades</h3>
+<h3>🏅 Certificações </h3>
+<div> 
+  <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-associate-traditional-web.png"></a>
+  <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-specialist-mobile.png"></a> 
+  <a href="https://www.youracclaim.com/badges/96e507d3-08b5-4237-bab6-ffc57d3dc1c9" target="_blank"><img aling="center" height="125" width="125" src="scrum-foundation.png"></a>
+  <a href="https://www.youracclaim.com/badges/a77bc1a6-43df-49bf-bc17-617a5be49f24" target="_blank"><img aling="center" height="125" width="125" src="devops-essentials.png"></a>
+</div>
+
+##
+<h3>👨‍💻 Habilidades </h3>
 <div style="display: inline_block">
   <img aling="center" alt="HTML5"     src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img aling="center" alt="CSS3"      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
