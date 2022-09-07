@@ -10,8 +10,6 @@ Prestando consultoria de IT com uso da plataforma de desenvolvimento <a href="ht
   <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-associate-reactive.png"></a>
   <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-specialist-mobile.png"></a>
   <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-specialist-architecture.png"></a> 
-  <a href="https://www.youracclaim.com/badges/96e507d3-08b5-4237-bab6-ffc57d3dc1c9" target="_blank"><img aling="center" height="125" width="125" src="scrum-foundation.png"></a>
-  <a href="https://www.youracclaim.com/badges/a77bc1a6-43df-49bf-bc17-617a5be49f24" target="_blank"><img aling="center" height="125" width="125" src="devops-essentials.png"></a>
 </div>
 
 ##
