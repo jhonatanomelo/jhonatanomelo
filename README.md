@@ -9,7 +9,8 @@ Prestando consultoria de IT com uso da plataforma de desenvolvimento <a href="ht
   <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-associate-traditional-web.png"></a>
   <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-associate-reactive.png"></a>
   <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-specialist-mobile.png"></a>
-  <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-specialist-architecture.png"></a> 
+  <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-specialist-architecture.png"></a>
+  <a href="https://www.outsystems.com/profile/h2dvwgcjbl/learn" target="_blank"><img aling="center" height="125" width="100" src="os-specialist-delivery.png"></a> 
 </div>
 
 ##
